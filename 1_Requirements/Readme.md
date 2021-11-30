@@ -8,10 +8,10 @@ The Meeting hall regulating system is basically used to monitor the temperature 
 
 ## Features
 
-- The System will sense is members in the meeting hall are seated or not.
-- The user who is regulating the sytem of the meeting hall has the access to modify the temperature in the meeting hall on the basis of members available.
+- The System will sense whether the seats in the meeting hall is occupied or not.
+- The user who is regulating the system of the meeting hall has the access to modify the temperature in the meeting hall on the basis of members available.
 - As per the count of members in the meeting hall, Heater will generate the heat accordingly.
-- It is best for cold Countries for heat control and for normal countries it can be used as both increasing or decreasing the heatness or coldness.
+- It is best for cold countries for heat control and for normal countries it can be used as both increasing or decreasing the heatness or coldness.
 - Low cost instalzation and can be redesigned according to the needs.
 - simulation and prototypical Approach can be processed.
 
@@ -19,15 +19,15 @@ The Meeting hall regulating system is basically used to monitor the temperature 
 The functionality of the meeting hall regulating system is coded in embedded c through visual studio and the working of this regulating system is performed using simulation software called SimulIDE. 
 
 ## SWOT- Strengths, Weakness, Opportunities and Threats
-**Strengths**
+## Strengths
 - It is User Friendly
 - Easy to alter the temperature inside the meeting hall according to the needs.
 - Low power consumption.
-**Weakness**
+ ## Weakness
 - Its cannot be connected wirelessly and its should be managed and maintained regularly.
-**Opportunities**
+## Opportunities
 - It can applied commercially by implementing along with both the Heater and AC for performance according to the temperature.
-**Threats**
+## Threats
 - Not suitable for average or high temperature places.
 - Maintaince of the system is high.
 
@@ -48,22 +48,22 @@ RID|DESCRIPTION	|STATUS|
 |LLR4| Power Supply| Implemented|
 
 ## 4W's and 1'H
-**Why:**
+## Why:
 
-The main concept of building this project is to easily regulate the temeperature of the meeting hall on the basis of the members the presented in the hall to generate an output signal.
+The main concept of building this project is to easily regulate the temperature of the meeting hall on the basis of the members the presented in the hall to generate an output signal.
 
-**What:**
+## What:
 
 This project is all about the regulating the overall temperature of the meeting hall and gives the data to control the temeprature inside the hall.
 
-**Where:**
+## Where:
 
 This project is best for meeting hall,computer lab,physics lab, biology lab and library because these places are covered with crowds and due to this temperature may rise.this project is used to regulate the overall temeprature of the hall. 
 
-**When:**
+## When:
 
 This project is going to be deployed on 2/12/2021.
 
-**How:**
+## How:
 
 This project includes push buttons according to number of sheats availabe for maintaining the counts of members presented in the meeting hall and according to it manages increasing or decreasing of the temperature in the meeting hall and sends analog data to ATmega324 controller and monitored using CRO.
