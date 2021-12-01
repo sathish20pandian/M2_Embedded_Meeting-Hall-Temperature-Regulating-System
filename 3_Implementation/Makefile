@@ -1,4 +1,4 @@
-PROJ_NAME = Activities
+PROJ_NAME = Meeting hall regulating system
 
 BUILD_DIR = Build
 
