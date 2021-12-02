@@ -1,5 +1,5 @@
 ## M2_Embedded_Meeting-Hall-Temperature-Regulating-System
-
+The Meeting hall regulating system is basically used to monitor the temperature of a meeting hall according to the number of members presented in the meeting hall. When a members in the meeting hall gets seated on a meeting hall, the button sensor gets activated. After that, the meeting hall analyser gets access to turn on the heater.The temperature sensor buttons keeps monitoring the temperature of the meeting hall on the basis of members available in hall and sends the analog value to the ATmega328 microcontroller. The microcontroller processes the analog input of the temperature sensor button and outputs a temperature value through serial communication. All the activities of the regulating system is performed with a microcontroller called Atmega328 and monitored by CRO serial communication o/p.
 
 
 
