@@ -1,5 +1,23 @@
 ## M2_Embedded_Meeting-Hall-Temperature-Regulating-System
 
+
+
+
+
+
+## Folder Structure
+
+|Folder|	Description|
+|------|---------------|
+|1_Requirements|	Documents detailing and research|
+|2_Design	|Documents regarding design details|
+|3_Implementation	|All code and documentation|
+|4_TestPlan	|Documents with test plan and procedure|
+|5_Report	|Project Report|
+|6_ImagesAndVideos	|Project output images and working video|
+
+
+
 ## Badges
 
 Name of the badges| badges|
